@@ -23,6 +23,7 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?styleflat-square&logo=phpMyAdmin&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?styleflat-square&logo=Visual Studio&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?styleflat-square&logo=Adobe Photoshop&logoColor=FFFFFF"/></a>
+<h2> </h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-eukkbi&show_icons=true&theme=vue)
