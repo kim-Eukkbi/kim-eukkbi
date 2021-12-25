@@ -16,12 +16,13 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/PHP-777BB4?styleflat-square&logo=PHP&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?styleflat-square&logo=Node.js&logoColor=FFFFFF"/></a>
 
-Tools  
+🔨Tools🔨  
   
 <img src="https://img.shields.io/badge/Unity-FFFFFF?styleflat-square&logo=Unity&logoColor=2e2e2e"/></a>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?styleflat-square&logo=Sourcetree&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?styleflat-square&logo=phpMyAdmin&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?styleflat-square&logo=Visual Studio&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?styleflat-square&logo=Adobe Photoshop&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?styleflat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-eukkbi&show_icons=true&theme=vue)
