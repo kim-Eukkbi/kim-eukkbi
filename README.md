@@ -1,4 +1,4 @@
-![screensh](./img/Intro.png)
+![screensh](./img/Intro123.png)
 
 👋 Hi there! I'm a student who junior grade of Gyeonggi game meister highschool👋  
   
