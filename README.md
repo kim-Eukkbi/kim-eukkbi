@@ -6,7 +6,7 @@
 
 🔌**Connect Me**🔌  
   
-<img src="https://img.shields.io/badge/Discord-5865F2?styleflat-square&logo=Discord&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/smbaekr56@naver.com-03C75A?styleflat-square&logo=Naver&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/smbaekr68@gmail.com-EA4335?styleflat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 <h1> 💪Skills </h1>
