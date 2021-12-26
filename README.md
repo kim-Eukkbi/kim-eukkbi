@@ -4,6 +4,11 @@
   
 🕹I'm working hard to become a mobile game developer.🎮
 
+🔌**Connect Me**🔌  
+  
+<img src="https://img.shields.io/badge/Discord-5865F2?styleflat-square&logo=Discord&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/smbaekr68@gmail.com-EA4335?styleflat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+
 <h1> 💪Skills </h1>
 
 Platforms & Languages  
