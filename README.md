@@ -1,8 +1,8 @@
 ![screensh](./img/Intro123.png)
 
-👋 Hi there! I'm a student who junior grade of Gyeonggi game meister highschool👋  
+<!--👋 Hi there! I'm a student who junior grade of Gyeonggi game meister highschool👋  
   
-🕹I'm working hard to become a mobile game developer.🎮
+🕹I'm working hard to become a mobile game developer.🎮-->
 
 
 🔌**Connect Me**🔌  
