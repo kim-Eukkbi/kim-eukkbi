@@ -19,9 +19,9 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Windows-0078D6?styleflat-square&logo=Windows&logoColor=FFFFFF"/></a>
   
 <img src="https://img.shields.io/badge/C Sharp-239120?styleflat-square&logo=C sharp&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?styleflat-square&logo=C%2B%2B&logoColor=FFFFFF"/></a>
+<!--<img src="https://img.shields.io/badge/C++-00599C?styleflat-square&logo=C%2B%2B&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?styleflat-square&logo=PHP&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?styleflat-square&logo=Node.js&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?styleflat-square&logo=Node.js&logoColor=FFFFFF"/></a>-->
 
 🔨Tools🔨  
   
